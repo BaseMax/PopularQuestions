@@ -4,11 +4,13 @@
 
 I share some popular questions in programming field for teacher.
 
+All of that are exam questions.
+
 ## Popular Questions
 
 ## Goal
 
-Some users suggest me to give a class to teach programming in that at university.
+Some users suggest me to give a new class to teach programming in that at university.
 But i not interested to spend time for this yet!
 
 ---------
