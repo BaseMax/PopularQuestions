@@ -2,9 +2,9 @@
 
 # Popular Programming Questions
 
-## Popular Questions
-
 I share some popular questions in programming field for teacher.
+
+## Popular Questions
 
 ## Goal
 
